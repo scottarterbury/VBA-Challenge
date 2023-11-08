@@ -17,4 +17,4 @@
 
 - Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
-Note:  Asked for helped on an issue with a teacher assistant and a peer for debugging.
+Note:  Asked for helped on an issue with a teacher assistant and a peer for debugging and autofitting cells.
